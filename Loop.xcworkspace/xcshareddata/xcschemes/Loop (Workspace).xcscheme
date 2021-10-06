@@ -294,6 +294,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "84752E8126ED0FFE009FD801"
+               BuildableName = "OmniBLE.framework"
+               BlueprintName = "OmniBLE"
+               ReferencedContainer = "container:OmniBLE/OmniBLE.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "43776F8B1B8022E90074EA36"
                BuildableName = "Loop.app"
                BlueprintName = "Loop"
@@ -456,6 +470,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "12C972CA24105C3600E9CDDB"
+            BuildableName = "Amplitude.framework"
+            BlueprintName = "Amplitude_iOS"
+            ReferencedContainer = "container:Amplitude-iOS/Amplitude.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
