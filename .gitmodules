@@ -27,4 +27,4 @@
 	url = https://github.com/LoopKit/MKRingProgressView.git
 [submodule "OmniBLE"]
 	path = OmniBLE
-	url = git@github.com:randallknutson/OmniBLE.git
+	url = https://github.com/randallknutson/OmniBLE.git
