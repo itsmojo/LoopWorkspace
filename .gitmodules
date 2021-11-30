@@ -34,3 +34,7 @@
 	path = xdrip-client-swift
 	url = https://github.com/alekst1d/xdrip-client-swift
 	branch = master
+[submodule "OmniBLE"]
+	path = OmniBLE
+	url = https://github.com/randallknutson/OmniBLE.git
+	branch = master
