@@ -294,6 +294,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "84752E8126ED0FFE009FD801"
+               BuildableName = "OmniBLE.framework"
+               BlueprintName = "OmniBLE"
+               ReferencedContainer = "container:OmniBLE/OmniBLE.xcodeproj">
                BlueprintIdentifier = "38F61398234F3066003FB95D"
                BuildableName = "NightscoutAPIClient.framework"
                BlueprintName = "NightscoutAPIClient"
