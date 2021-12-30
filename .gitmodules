@@ -1,7 +1,6 @@
 [submodule "Loop"]
 	path = Loop
 	url=https://github.com/loopnlearn/Loop.git
-	branch = freeaps
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/loopnlearn/LoopKit.git
@@ -23,7 +22,6 @@
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/LoopKit/Amplitude-iOS.git
-	branch = decreepify
 [submodule "MKRingProgressView"]
 	path = MKRingProgressView
 	url = https://github.com/LoopKit/MKRingProgressView.git
@@ -33,8 +31,6 @@
 [submodule "xdrip-client-swift"]
 	path = xdrip-client-swift
 	url = https://github.com/alekst1d/xdrip-client-swift
-	branch = master
 [submodule "OmniBLE"]
 	path = OmniBLE
-	url = https://github.com/randallknutson/OmniBLE.git
-	branch = master
+	url = https://github.com/marionbarker/OmniBLE.git
